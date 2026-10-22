@@ -53,11 +53,37 @@ http://172.16.234.30:8090/FST22/index.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়া বিনোদন",colors 2
 http://103.135.253.32:8080/Color-HD/index.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান বাংলা",star jalsha
-http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান বাংলা",zee bangla sun
-http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="ইসলাম",Iqra Bangla.......95
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/0jNqgnhR/20260918-143009.png" group-title="ISLAM",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="বাচ্চাদের চ্যানেল",দুরন্ত
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2cPZHLj/20260917-183818.png" group-title="Bangladesh",Sony Television HD
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2cPZHLj/20260917-183818.png" group-title="Bangladesh",Sony Television
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://i.postimg.cc/P50fmg94/20260917-185405.png" group-title="MOVIE 🍿",Sony SAB HD
+http://vca.easy747.com:80/live/0578694/1295K6K/1020710.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="SPORTS ⚽",T sports
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="SPORTS ⚽",PTV Sports HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/453434.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01tR5R7/20260918-111509.png" group-title="SPORTS ⚽",Ten Cricket
+https://ireentv.pages.dev/Sony_Ten_Cricket_Server_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="SPORTS ⚽",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYnbtRt0/20260918-111645.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYnbtRt0/20260918-111645.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="SPORTS ⚽",Star Sports 1 HD
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="SPORTS ⚽",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="https://i.postimg.cc/s2pz5v54/20260918-111431.png" group-title="SPORTS ⚽",ASTRO CRICBUZ
+http://vca.easy747.com:80/live/0578694/1295K6K/1404519.ts
