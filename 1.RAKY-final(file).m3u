@@ -97,7 +97,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="বাংলা সিনেমা",জলসা মুভিজ
 http://103.151.60.162:2122/play/a00x/index.m3u8#skym3u.dev
-#EXTINF:-1 group-title="বাচ্চাদের চ্যানেল",দুরন্ত টিভি
-https://amadertv.top:8880/images/d0bf7914af252d8a5e44fcafc2902f88.png
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/063ec458e6d979ac4c4ad1192f235cbd.png" group-title="বাচ্চাদের চ্যানেল",দুরন্ত টিভি
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 #EXTINF:-1 group-title="হিন্দি চ্যানেল",কালারস হিন্দি sun
 http://103.135.253.32:8080/Color-HD/index.m3u8
