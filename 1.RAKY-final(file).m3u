@@ -20,7 +20,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/da46e6a29db4a950d9abc24e481195f2.jpeg" group-title="নিউজ",স্টার নিউজ
 http://103.135.253.32:8080/Star-News/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/63d25c932338580cf22ef61034777959.png" group-title="বাংলাদেশের টিভি",দিপ্ত টিভি
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/3892ea18b4490fe705b193cad23914ce.png" group-title="বাংলাদেশের টিভি",চ্যানেল আই
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/5ad8208926d8ceb5e43177c24ec20357.png" group-title="বাংলাদেশের টিভি",বাংলাভিশন
@@ -28,7 +28,7 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgjFWCb/20260918-142451.png",এন টিভি
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/d0bf7914af252d8a5e44fcafc2902f88.png" group-title="নিউজ",ইন্ডিপেন্ডেন্ট টিভি
-http://103.135.253.32:8080/Indipendent/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="বিদেশি খবর",আল জাজিরা
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/31804ce743f2efbbbe47cb3efcebbc89.png" group-title="বাংলাদেশের টিভি",আর টিভি
