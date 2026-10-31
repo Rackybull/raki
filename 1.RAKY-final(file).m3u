@@ -75,8 +75,6 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8#skym3u.dev
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@SD" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-select-1.png" tvg-chno="626" channel-id="StarSportsSelect1.in@SD" tvg-country="IN" tvg-language="eng" group-title="খেলার চ্যানেল",Star Sports Select 1
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eurosport.png" group-title="খেলার চ্যানেল",ইউরো স্পোর্টস
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/a-sports-65a3e1d8fd.png" group-title="খেলার চ্যানেল",এ স্পোর্টস
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="খেলার চ্যানেল" provider="skym3u.dev",ওইলো
@@ -85,8 +83,6 @@ http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",টি স্পোর্টস ১
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",টি স্পোর্টস ২ (copy)
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল",টেন ক্রিকেট
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ক্রিকেট বিকল্প
@@ -296,7 +292,7 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="80" channel-id="Goldmines.in@SD",গোল্ডমাইন
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines-movies.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="82" channel-id="GoldminesMovies.in@SD",গোল্ডমাইন মুভিস
-https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-name="Shemaroo Josh" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-josh.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="87" channel-id="ShemarooJosh.in@SD",জোস সিনেমা
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SouthIndiaMovie" tvg-name="South Indian Movies" tvg-country="IN" tvg-language="eng" group-title="হিন্দি সিনেমা" tvg-chno="90" channel-id="SouthIndiaMovie",তামিল সিনেমা
