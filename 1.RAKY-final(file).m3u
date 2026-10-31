@@ -18,7 +18,7 @@ http://103.135.253.32:8080/MN-PLUS/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="MoviesNow.in@SD" tvg-name="Movies Now" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/movies-now-hd.png" tvg-country="IN" tvg-language="eng" group-title="ইংরেজি সিনেমা চ্যানেল" channel-id="MoviesNow.in@SD",মুভিজ নাও
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony PIX" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-pix-hd.png" tvg-country="IN" tvg-language="eng" group-title="ইংরেজি সিনেমা চ্যানেল" channel-id="SonyPix.in",সনি পিক্স ইংরেজি সিনেমা
-https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/275048
 #EXTINF:-1 tvg-name="Star Movies" tvg-logo="।।" group-title="ইংরেজি সিনেমা চ্যানেল" provider="skym3u.dev",স্টার মুভিজ
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-movies-select-37627406.png" tvg-country="IN" tvg-language="eng" group-title="ইংরেজি সিনেমা চ্যানেল" channel-id="StarMoviesSelect.in@HD",স্টার মুভিজ সিলেক্ট
@@ -51,8 +51,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/ZYjTfBXZ/20260918-105008.png" group-title="ইসলামিক চ্যানেল",ইসলামিক টিভি
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-#EXTINF:-1 tvg-id="EmanTv.iq" tvg-name="EMAN TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/unused/emantv-1080p-b465ae9d98.png" tvg-country="IQ" tvg-language="ara" group-title="ইসলামিক চ্যানেল" tvg-chno="597" channel-id="EmanTv.iq",ঈমান টিভি
-https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="ইসলামিক চ্যানেল",কুরআনের টিভি
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="DuaChannel.sa" tvg-name="Dua Channel" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dua-channel.png" tvg-country="SA" tvg-language="ara" group-title="ইসলামিক চ্যানেল" tvg-chno="596" channel-id="DuaChannel.sa",দোয়া টিভি
@@ -70,7 +68,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="MedinaLive.bd" tvg-name="Medina Live" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/medina-live.png" tvg-country="BD" tvg-language="ara" group-title="ইসলামিক চ্যানেল" tvg-chno="605" channel-id="MedinaLive.bd",মদিনা সরাসরি
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/madani-tv.png" group-title="ইসলামিক চ্যানেল",মাদানী টিভি বাংলা
-https://tvsen3.aynaott.com/z24qLsqV/index.m3u8#skym3u.dev
+http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/1369524
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ptv-sports.png" tvg-chno="621" channel-id="PTVSports.pk" tvg-country="PK" tvg-language="urd" group-title="খেলার চ্যানেল",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@SD" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-select-1.png" tvg-chno="626" channel-id="StarSportsSelect1.in@SD" tvg-country="IN" tvg-language="eng" group-title="খেলার চ্যানেল",Star Sports Select 1
@@ -84,7 +82,7 @@ https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",টি স্পোর্টস ১
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল",টেন ক্রিকেট
-https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8#skym3u.dev
+http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/658436
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ক্রিকেট বিকল্প
 http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ten-sports-hd-d3126ed9.png" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন স্পোর্টস
@@ -121,8 +119,6 @@ http://103.135.253.32:8080/Sony-BBC-Earth/index.m3u8#skym3u.dev
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/d0bf7914af252d8a5e44fcafc2902f88.png" group-title="নিউজ",ইন্ডিপেন্ডেন্ট টিভি
 http://103.135.253.32:8080/Indipendent/index.m3u8
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/156b24455f88cd88ea623e35278b5594.png" group-title="নিউজ",একাত্তর টিভি
-https://drk6xq0vhn.gpcdn.net/live/ekattor_tv_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",এখন টিভি
 http://103.135.253.32:8080/Ekhon-TV/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png" tvg-country="BD" tvg-language="ben" group-title="নিউজ" tvg-chno="5" channel-id="ATNNews.bd",এটিএন নিউজ
@@ -159,8 +155,6 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channel52/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",জলসা বাংলা টিভি
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8#skym3u.dev
-#EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",ডি টিভি আমেরিকা
-https://cdn.dtvusa.com/dtv/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",দেশি টিভি
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/07a8c8ad867d8c6117786545c2060fc4.png" group-title="বাংলা ইন্টারনেট টিভি",দেশে-বিদেশে
@@ -249,8 +243,6 @@ http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 http://103.135.253.32:8080/NICK/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Nick JR" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",নিক জুনিয়র
 http://103.135.253.32:8080/NICK-Jr/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="Pogo.in@SD" tvg-name="Pogo" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pogo.png" tvg-country="IN" group-title="বাচ্চাদের চ্যানেল" channel-id="Pogo.in@SD",পগো
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",সনি এয়ে
 http://103.135.253.32:8080/SONY-YAY/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",হাংগামা
@@ -301,3 +293,5 @@ https://tv.kbhub.online/Movies/South-India-Movie.m3u8
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png" group-title="হিন্দি সিনেমা" provider="skym3u.dev",সনি ম্যাক্স
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8#skym3u.dev
+#EXTINF:-1 group-title="খেলার চ্যানেল",ইউরো স্পোর্টস
+http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/955664
