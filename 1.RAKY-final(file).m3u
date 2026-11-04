@@ -26,7 +26,7 @@ http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="ইন্ডিয়ান বাংলা",আকাশ আট
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="ইন্ডিয়ান বাংলা" provider="skym3u.dev",কালারস বাংলা এচডি
-http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8#skym3u.dev
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/955389.ts
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="ইন্ডিয়ান বাংলা" provider="skym3u.dev",জি বাংলা
 http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="ইন্ডিয়ান বাংলা",জি বাংলা এইচডি
@@ -82,7 +82,7 @@ http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল",টেন ক্রিকেট
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/658436
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ক্রিকেট বিকল্প
-http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8#skym3u.dev
+https://ireentv.pages.dev/Sony_Ten_Cricket_Server_2.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ten-sports-hd-d3126ed9.png" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন স্পোর্টস
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/247171.ts
 #EXTINF:-1 tvg-name="Sony Ten Sports 2" tvg-logo="।।" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ২
@@ -142,7 +142,7 @@ https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",সময় নিউজ  বিকল্প
 http://103.135.253.32:8080/SOMOY-TV/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/da46e6a29db4a950d9abc24e481195f2.jpeg" group-title="নিউজ",স্টার নিউজ
-http://103.135.253.32:8080/Star-News/index.m3u8#skym3u.dev
+http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 tvg-id="১" tvg-name="Ekattor TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",৭১ TV
 http://103.135.253.32:8080/Ekattor-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/a58a97588099b601f5a213de6036d9ee.jpg" group-title="বাংলা ইন্টারনেট টিভি",আমার ডিজিটাল
@@ -293,3 +293,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="খেলার চ্যানেল",ইউরো স্পোর্টস
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/955664
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nvisionbd-verified-tapmad-f7b9c9e532.svg" tvg-country="PK" tvg-language="eng" group-title="খেলার চ্যানেল",TAPMAD
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nvisionbd-verified-tapmad-f7b9c9e532.svg" tvg-country="PK" tvg-language="eng" group-title="খেলার চ্যানেল",TAPMAD
+https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
