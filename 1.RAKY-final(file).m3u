@@ -166,7 +166,7 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-name="Zee Bangla Sonar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" channel-id="ZeeBanglaSonar.in@SD",জি বাংলা সোনার
 http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 group-title="বাংলা সিনেমা" provider="skym3u.dev",জি সোনার বাংলা
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8#skym3u.dev
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="JTVClassic.in" tvg-name="JTV Classic" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jtv-classic.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" tvg-chno="80" channel-id="JTVClassic.in",যে টিভি ক্লাসিক
 http://103.67.97.46/0.ts
 #EXTINF:-1 tvg-id="SNBCinema.in" tvg-name="SNB Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/snb-cinema.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" tvg-chno="90" channel-id="SNBCinema.in",সেনবি সিনেমা
@@ -299,3 +299,7 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",T sports
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#skym3u.dev
+#EXTINF:-1 group-title="হিন্দি চ্যানেল",colours fhd
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33472.ts
+#EXTINF:-1 group-title="খেলার চ্যানেল",স্কাই ক্রিকেট
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/150251.ts
