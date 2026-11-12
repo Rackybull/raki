@@ -62,11 +62,11 @@ http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1470719.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/a-sports-65a3e1d8fd.png" group-title="খেলার চ্যানেল",এ স্পোর্টস
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="খেলার চ্যানেল" provider="skym3u.dev",ওইলো
-http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1481176.ts
+https://tvsen7.aynaott.com/Sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cricket-gold.png" group-title="খেলার চ্যানেল",ক্রিকেট গোল্ড
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",টি স্পোর্টস ১
-http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/111409.ts
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল",টেন ক্রিকেট
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/658436
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ক্রিকেট বিকল্প
@@ -107,8 +107,6 @@ http://markethelp1.com/live/sree1602/9196sree/423.ts
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png" tvg-country="BD" tvg-language="ben" group-title="নিউজ" tvg-chno="5" channel-id="ATNNews.bd",এটিএন নিউজ
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",এটিএন বিকল্প
-http://103.135.253.32:8080/ATN-Bangla/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/0724566e66afade8d907995ebd54a60d.png" group-title="নিউজ",চ্যানেল অয়ান
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="নিউজ",চ্যানেল ২৪
@@ -119,16 +117,12 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="নিউজ",নিউজ ২৪
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",যমুনা টিভি
-http://103.135.253.32:8080/Jamuna-TV/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/38db69f097cfccf074d99a480c073f50.png" group-title="নিউজ",সময় টিভি
-https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",সময় নিউজ  বিকল্প
-http://103.135.253.32:8080/SOMOY-TV/index.m3u8#skym3u.dev
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794466848~Starts=1794463248~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bJyaLzJmPFhEou9GD6a8koEWU3aXNjV-sJwjqljePw3uqktaP5IYzksZK7bRYCVXVnn9AmARu-51O15u_kB3CA
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/da46e6a29db4a950d9abc24e481195f2.jpeg" group-title="নিউজ",স্টার নিউজ
 http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:-1 tvg-id="১" tvg-name="Ekattor TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",৭১ TV
-http://103.135.253.32:8080/Ekattor-TV/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1794466851~Starts=1794463251~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=2RKFIvn6pfq0JjvtgeyjtO4gBCG27hQJJ5LQ8K8on8Sq_uIdyOyFnsRmKsZs_epWqE3cZEn_otayGkZQg7ehBg
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/a58a97588099b601f5a213de6036d9ee.jpg" group-title="বাংলা ইন্টারনেট টিভি",আমার ডিজিটাল
 http://115.187.41.216:8080/hls/amardigital/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",এন্টার টিভি
@@ -224,7 +218,7 @@ http://103.135.253.32:8080/NICK/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Nick JR" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",নিক জুনিয়র
 http://103.135.253.32:8080/NICK-Jr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",সনি এয়ে
-http://103.135.253.32:8080/SONY-YAY/index.m3u8#skym3u.dev
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1794466854~Starts=1794463254~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=HdctI213R6J4IwUym6oqOwoX0-J3ljkz9w2TzTw3e3OncodnUgXKihXljZcPExgSUheu6lixc1Iw0ZwhNTzSAg
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",হাংগামা
 http://103.135.253.32:8080/HUNGAMA/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="বিদেশি খবর",আল জাজিরা
@@ -280,8 +274,10 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nvisionbd-verified-tapmad-f7b9c9e532.svg" tvg-country="PK" tvg-language="eng" group-title="খেলার চ্যানেল",TAPMAD
 https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="খেলার চ্যানেল",T sports
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#skym3u.dev
+https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/refs/heads/main/tapmad_sm.m3u
 #EXTINF:-1 group-title="হিন্দি চ্যানেল",colours fhd
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33472.ts
 #EXTINF:-1 group-title="খেলার চ্যানেল",স্কাই ক্রিকেট
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/150251.ts
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="নিউজ",যমুনা টিভি
+https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1794466848~Starts=1794463248~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bJyaLzJmPFhEou9GD6a8koEWU3aXNjV-sJwjqljePw3uqktaP5IYzksZK7bRYCVXVnn9AmARu-51O15u_kB3CA
