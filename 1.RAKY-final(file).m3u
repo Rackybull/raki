@@ -45,8 +45,6 @@ https://newyork.zeuscdn724.com/H9/index.m3u8
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/451dba681087fbe661a0c60459787571.png" group-title="ইসলামিক চ্যানেল",পিস টিভি
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVnNkQq/20260918-145512.png" group-title="ইসলামিক চ্যানেল",বাংলা ওয়ায
-https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bahrain-quran.png" tvg-country="BH" tvg-language="ara" group-title="ইসলামিক চ্যানেল" tvg-chno="594" channel-id="BahrainQuran.bh",বাহরাইন কুরআন
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/colOISC.jpeg" group-title="ইসলামিক চ্যানেল",মক্কা সরাসরি
@@ -69,8 +67,6 @@ https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#skym3u.dev
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল",টেন ক্রিকেট
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/658436
-#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ক্রিকেট বিকল্প
-https://ireentv.pages.dev/Sony_Ten_Cricket_Server_2.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ten-sports-hd-d3126ed9.png" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন স্পোর্টস
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/247171.ts
 #EXTINF:-1 tvg-name="Sony Ten Sports 2" tvg-logo="।।" group-title="খেলার চ্যানেল" provider="skym3u.dev",টেন ২
@@ -118,11 +114,9 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="নিউজ",নিউজ ২৪
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/38db69f097cfccf074d99a480c073f50.png" group-title="নিউজ",সময় টিভি
-https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794466848~Starts=1794463248~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bJyaLzJmPFhEou9GD6a8koEWU3aXNjV-sJwjqljePw3uqktaP5IYzksZK7bRYCVXVnn9AmARu-51O15u_kB3CA
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/da46e6a29db4a950d9abc24e481195f2.jpeg" group-title="নিউজ",স্টার নিউজ
-http://103.135.253.32:8080/Star-News/index.m3u8
-#EXTINF:-1 tvg-id="১" tvg-name="Ekattor TV" tvg-logo="।।" group-title="নিউজ" provider="skym3u.dev",৭১ TV
-https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1794466851~Starts=1794463251~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=2RKFIvn6pfq0JjvtgeyjtO4gBCG27hQJJ5LQ8K8on8Sq_uIdyOyFnsRmKsZs_epWqE3cZEn_otayGkZQg7ehBg
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/a58a97588099b601f5a213de6036d9ee.jpg" group-title="বাংলা ইন্টারনেট টিভি",আমার ডিজিটাল
 http://115.187.41.216:8080/hls/amardigital/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",এন্টার টিভি
@@ -133,8 +127,6 @@ https://tvsen6.aynaott.com/channel52/index.m3u8#skym3u.dev
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8#skym3u.dev
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",দেশি টিভি
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/07a8c8ad867d8c6117786545c2060fc4.png" group-title="বাংলা ইন্টারনেট টিভি",দেশে-বিদেশে
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="বাংলা ইন্টারনেট টিভি",মাতৃভূমি টিভি
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/990a97da3821e736bcf5c3c0b8fc8f59.jpg" group-title="বাংলা ইন্টারনেট টিভি",সানন্দা টিভি
@@ -179,8 +171,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/6444021bbbeb26b85f6b8adb9fc69dbc.png" group-title="বাংলাদেশের টিভি",নাগরিক টিভি
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD" tvg-name="News 21" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/news-21-bangla-tv.png" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি" tvg-chno="43" channel-id="News21BanglaTV.bd@SD",নিউজ ২১
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nexus-tv.png" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি" tvg-chno="45" channel-id="NexusTV.bd",নেক্সাস টিভি
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি" tvg-chno="6" channel-id="BanglaTV.bd",বাংলা টিভি
@@ -203,54 +193,22 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rajdhani-tv.png" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি" tvg-chno="49" channel-id="RajdhaniTV.bd",রাজধানী টিভি
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-id="Hungama.in@SD" tvg-name="Hungama" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hungama.png" tvg-chno="559" channel-id="Hungama.in@SD" tvg-country="IN" tvg-language="eng" group-title="বাচ্চাদের চ্যানেল",Hungama
-http://103.135.253.32:8080/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="NickBangla.bd" tvg-name="Nick Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nick-bangla-26fef2ac19.png" tvg-chno="566" channel-id="NickBangla.bd" tvg-country="BD" tvg-language="ben" group-title="বাচ্চাদের চ্যানেল",Nick Bangla
-http://103.135.253.32:8080/NICK/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network HD +" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",কার্টুন নেটওয়ার্ক
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/063ec458e6d979ac4c4ad1192f235cbd.png" group-title="বাচ্চাদের চ্যানেল",দুরন্ত টিভি
 https://livetv.shamon-cable.net:8443/Duronto/index.m3u8
-#EXTINF:-1 tvg-name="Nick" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",নিক
-http://103.135.253.32:8080/NICK/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Nick JR" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",নিক জুনিয়র
-http://103.135.253.32:8080/NICK-Jr/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",সনি এয়ে
-https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1794466854~Starts=1794463254~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=HdctI213R6J4IwUym6oqOwoX0-J3ljkz9w2TzTw3e3OncodnUgXKihXljZcPExgSUheu6lixc1Iw0ZwhNTzSAg
-#EXTINF:-1 tvg-name="Hungama" tvg-logo="।।" group-title="বাচ্চাদের চ্যানেল" provider="skym3u.dev",হাংগামা
-http://103.135.253.32:8080/HUNGAMA/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="বিদেশি খবর",আল জাজিরা
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="বিদেশি খবর",সিএনএন
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-tv-2fb6673cf7.svg" tvg-country="IN" tvg-language="hin" group-title="হিন্দি চ্যানেল" tvg-chno="130" channel-id="ZeeTV.in@SD",Zee জি টিভি হিন্দি
-http://103.135.253.32:8080/ZEE-TV/index.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" tvg-name="Colors Rishtey" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-rishtey.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি চ্যানেল" channel-id="ColorsRishteyAmericas.in",কালারস রিশতে হিন্দি
-http://103.172.29.30:9991/stream/channelid/1367268710
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="হিন্দি চ্যানেল",কালারস হিন্দি sun
-http://103.135.253.32:8080/Color-HD/index.m3u8
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="।।" group-title="হিন্দি চ্যানেল" provider="skym3u.dev",জি টিভি হিন্দি
-http://103.135.253.32:8080/ZEE-TV/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="DDNational.in@SD" tvg-name="DD National" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-national.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি চ্যানেল" tvg-chno="119" channel-id="DDNational.in@SD",দুরদর্শন
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-name="Sony Entertainment" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি চ্যানেল" tvg-chno="124" channel-id="SonyEntertainment.in",সনি
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-name="Sony KAL" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-kal.png" tvg-country="US" tvg-language="hin" group-title="হিন্দি চ্যানেল" tvg-chno="125" channel-id="SonyKALHindi.us",সনি কাল
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Entertainment" tvg-logo="।।" group-title="হিন্দি চ্যানেল" provider="skym3u.dev",সনি হিন্দি
-http://103.135.253.32:8080/SONY-ENTARTANMEN/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-bharat.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি চ্যানেল" tvg-chno="127" channel-id="StarBharat.in",স্টার ভারাত
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="হিন্দি বিদেশি" provider="skym3u.dev",কালারস ইংল্যান্ড
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="AndPictures" tvg-name="& Pictures" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/and-pictures.png" tvg-country="IN" tvg-language="eng" group-title="হিন্দি সিনেমা" tvg-chno="75" channel-id="AndPictures",& Pictures এন্ড পিকচার
-http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-kadak.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="76" channel-id="B4UKadak.in@SD",B4U কারাক হিন্দি সিনেমা
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-movies.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" channel-id="B4UMovies.in@India",B4U মুভিস হিন্দি সিনেমা
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex.png" group-title="হিন্দি সিনেমা" provider="skym3u.dev",কালারস সিনেপ্লেক্স
-http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines-bollywood.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="81" channel-id="GoldminesBollywood.in@SD",গল্ডমাইন বলিউড
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines.png" tvg-country="IN" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="80" channel-id="Goldmines.in@SD",গোল্ডমাইন
@@ -263,8 +221,6 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8
 https://tv.kbhub.online/Movies/South-India-Movie.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us" tvg-name="Shemaroo Bollywood" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-bollywood.png" tvg-country="US" tvg-language="hin" group-title="হিন্দি সিনেমা" tvg-chno="86" channel-id="ShemarooBollywood.us",বলিউড সিনেমা
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png" group-title="হিন্দি সিনেমা" provider="skym3u.dev",সনি ম্যাক্স
-http://103.135.253.32:8080/Sony-Max-HD/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="খেলার চ্যানেল",ইউরো স্পোর্টস
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/955664
 #EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nvisionbd-verified-tapmad-f7b9c9e532.svg" tvg-country="PK" tvg-language="eng" group-title="খেলার চ্যানেল",TAPMAD
@@ -277,11 +233,137 @@ https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/re
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33472.ts
 #EXTINF:-1 group-title="খেলার চ্যানেল",স্কাই ক্রিকেট
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/150251.ts
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="নিউজ",যমুনা টিভি
-https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1794466848~Starts=1794463248~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bJyaLzJmPFhEou9GD6a8koEWU3aXNjV-sJwjqljePw3uqktaP5IYzksZK7bRYCVXVnn9AmARu-51O15u_kB3CA
 #EXTINF:-1 group-title="খেলার চ্যানেল",স্টার স্পোর্টস ৩
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/778411.ts
 #EXTINF:-1 group-title="ইন্ডিয়ান বাংলা",সান বাংলা
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132122.ts
 #EXTINF:-1 group-title="ইসলামিক চ্যানেল",মাদানি উর্দু
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33535.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5drsL7/20260918-143215.png" group-title="নিউজ",Jamuna
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjcBscrd/20260918-142223.png" group-title="নিউজ",Ekattor HD
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRHhD27M/20260918-142610.png" group-title="নিউজ",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/Kj9x4wtT/20260917-204336.png" group-title="নিউজ",Desh TV  (19)
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCGMP624/20260918-105041.png" group-title="নিউজ",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWpwygm/20260917-185459.png" group-title="বাংলাদেশের টিভি",Maasranga
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0Y37sK1/20260918-143507.png" group-title="বাংলাদেশের টিভি",Boishakhi
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFPvQTwj/20260918-143351.png" group-title="বাংলাদেশের টিভি",SRK
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxtjvNrK/20260918-105540.png" group-title="বাংলাদেশের টিভি",IN - ASIAN TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tsQBsHt/20260918-142129.png" group-title="হিন্দি চ্যানেল",Colors HD 🔥
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/72156.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqNnj4G9/20260917-203333.png" group-title="ইংরেজি সিনেমা চ্যানেল",Star Movies HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/52223.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0312bb63186e1dd63c42f5bf6b7714cc.png" group-title="ইংরেজি সিনেমা চ্যানেল",Star ACTION
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/74799.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="হিন্দি সিনেমা",Jalsha Movies HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/911145.ts
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/Zq3bjfzc/20260917-185551.png" group-title="ইংরেজি সিনেমা চ্যানেল",Sony PIX HD
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/1020173.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFnwp09G/20260917-185021.png" group-title="হিন্দি সিনেমা",Sony Max HD
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/1020170.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880235.png" group-title="ইংরেজি সিনেমা চ্যানেল",AXN Movies
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/273378.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="ইংরেজি সিনেমা চ্যানেল",ROCK ACTION
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/111726.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZf/20260917-183528.png" group-title="ইংরেজি সিনেমা চ্যানেল",Star Movies Select HD
+http://markethelp1.com:80/live/sree1602/9196sree/218.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Cinema.png" group-title="হিন্দি সিনেমা",Z Cinema
+http://markethelp1.com:80/live/sree1602/9196sree/230.ts
+#EXTINF:-1 tvg-name="MNX HD" tvg-logo="https://i.postimg.cc/jqhjGknR/20260917-184302.png" group-title="ইংরেজি সিনেমা চ্যানেল",MNX HD
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/34698.ts
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/FzGs37XF/20260917-183735.png" group-title="হিন্দি সিনেমা",Colors Cineplex FHD
+http://markethelp1.com:80/live/sree1602/9196sree/867.ts
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://static.epg.best/hu/Cinemax.hu.png" group-title="হিন্দি সিনেমা",CINEMAX
+http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/68853.ts
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/9XBfvNRG/20260917-183941.png" group-title="হিন্দি সিনেমা",Star Gold Select HD (....40
+http://vca.easy747.com:80/live/0578694/1295K6K/72142.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZ528.png" group-title="হিন্দি সিনেমা",& XploreHD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/911323.ts
+#EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://i.postimg.cc/P50fmg94/20260917-185405.png" group-title="হিন্দি চ্যানেল",Sony SAB HD
+http://vca.easy747.com:80/live/0578694/1295K6K/1020710.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/G2xcnH2L/20260917-203251.png" group-title="ইংরেজি সিনেমা চ্যানেল",HBO
+https://tvsen7.aynaott.com/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/Y08qYhB9/20260917-183853.png" group-title="হিন্দি সিনেমা",Star Gold THRILLS
+http://markethelp1.com:80/live/sree1602/9196sree/773735.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="হিন্দি সিনেমা",Movies Now
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/113.ts
+#EXTINF:-1 tvg-name="Sony KAL Hindi (1080p)" tvg-logo="https://i.postimg.cc/mkTgP7qY/20260917-183408.png" group-title="হিন্দি সিনেমা",Sony KAL Hindi ......89
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50Bt9sPV/20260917-182843.png" group-title="হিন্দি সিনেমা",Star Gold HD
+http://markethelp1.com:80/live/sree1602/9196sree/194.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="হিন্দি সিনেমা",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://i.postimg.cc/wv8vdCkT/20260917-182745.png" group-title="হিন্দি সিনেমা",Star Gold 2 HD
+http://vca.easy747.com:80/live/0578694/1295K6K/1020178.ts
+#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="ইংরেজি সিনেমা চ্যানেল",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwHsf00p/20260917-181702.png" group-title="বাচ্চাদের চ্যানেল",Rongeen
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.postimg.cc/fRyk7jbP/20260917-181146.png" group-title="হিন্দি সিনেমা",Colors Cineplex Bollywood
+http://live.balajibroadband.com:3500/live/1763.m3u8
+#EXTINF:-1 tvg-name="Best Action TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="ইংরেজি সিনেমা চ্যানেল",Best Action TV
+https://streams2.sofast.tv/ptnr-Khabriya/title-BEST_ACTION_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46d81239-7803-45e2-9341-99ca0226fb62/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://i.postimg.cc/ZKChVfr3/20260918-145037.png" group-title="হিন্দি সিনেমা",HINDI - SONY PAL
+http://live.balajibroadband.com:3500/live/474.m3u8
+#EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="হিন্দি সিনেমা",HINDI - SONY WAH
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" group-title="হিন্দি সিনেমা",HINDI - AND PICTURES HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/275042.ts
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png" group-title="হিন্দি সিনেমা",HINDI - B4U MOVIES
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="bigmagic.in" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" group-title="হিন্দি সিনেমা",HINDI - BIG MAGIC HD
+http://vca.easy747.com:80/live/0578694/1295K6K/72173.ts
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/nrnhXq5d/20260917-183624.png" tvg-country="Unknown" group-title="ইংরেজি সিনেমা চ্যানেল",HBO 3
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/68811.ts
+#EXTINF:-1 tvg-id="custom.bdix.ayna-tv" tvg-name="Ayna TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ayna-tv.png" tvg-chno="6" channel-id="custom.bdix.ayna-tv" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bijoy-tv.png" tvg-chno="10" channel-id="BijoyTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Bijoy TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+#EXTINF:-1 tvg-id="Channel16.bd" tvg-name="Channel 16" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-16.png" channel-id="Channel16.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Channel 16
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-52.png" tvg-chno="17" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Channel 52
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-9.png" tvg-chno="15" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Channel 9
+https://nkafmbewiff.gpcdn.net/tile_7/1080p.m3u8
+#EXTINF:-1 tvg-id="ChannelEurope.uk" tvg-name="Channel Europe" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-europe-c8db0338dc.png" tvg-chno="390" channel-id="ChannelEurope.uk" tvg-country="GB" tvg-language="ben" group-title="বাংলাদেশের টিভি",Channel Europe
+https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/deepto-tv.png" tvg-chno="21" channel-id="DeeptoTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-name="Doyel TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/doyel-tv.png" tvg-chno="400" channel-id="DoyelTV.ca@SD" tvg-country="CA" tvg-language="ben" group-title="বাংলাদেশের টিভি",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekattor-tv.png" tvg-chno="23" channel-id="EkattorTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png" tvg-chno="25" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Ekushey TV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1 tvg-id="GSeriesDrama.bd" tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/g-series-drama.png" tvg-chno="27" channel-id="GSeriesDrama.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="JATV.bd" tvg-name="JA TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ja-tv.png" tvg-chno="30" channel-id="JATV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",JA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jtvbd12.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="JonmobhumiTV.bd" tvg-name="Jonmobhumi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jonmobhumi-tv.png" tvg-chno="35" channel-id="JonmobhumiTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Jonmobhumi TV
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatribhumiTV.bd" tvg-name="Matribhumi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/matri-bhumi-tv.png" tvg-chno="38" channel-id="MatribhumiTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Matribhumi TV
+https://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-id="METV.bd" tvg-name="ME TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/me-tv.png" tvg-chno="39" channel-id="METV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-id="ProbashiTV.bd" tvg-name="Probashi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/probashi-tv.png" tvg-chno="48" channel-id="ProbashiTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Probashi TV
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png" tvg-chno="50" channel-id="RTV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sa-tv.png" tvg-chno="52" channel-id="SATV.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",SA TV
+https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
+#EXTINF:-1 tvg-id="custom.shikortvcanada" tvg-name="Shikor TV Canada" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shikor-tv-canada-ac43f0fa9e.png" tvg-chno="53" channel-id="custom.shikortvcanada" tvg-country="CA" tvg-language="ben" group-title="বাংলাদেশের টিভি",Shikor TV Canada
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bd.tbn.24.usa.bd" tvg-name="TBN 24 USA" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tbn-24.png" tvg-chno="9" channel-id="bd.tbn.24.usa.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 tvg-id="vision.24.bd" tvg-name="VISION 24" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vision.png" tvg-chno="58" channel-id="vision.24.bd" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",VISION 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="custom.tentvprime" tvg-name="Ten TV Prime" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ten-tv-prime-ac43f0fa9e.png" tvg-chno="59" channel-id="custom.tentvprime" tvg-country="BD" tvg-language="ben" group-title="বাংলাদেশের টিভি",Ten TV Prime
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
