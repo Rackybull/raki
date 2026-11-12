@@ -56,7 +56,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/madani-tv.png" group-title="ইসলামিক চ্যানেল",মাদানী টিভি বাংলা
 http://filex.bdix.xyz:8080/live/03098001921RDB/03098001921RDB/1369524
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ptv-sports.png" tvg-country="PK" tvg-language="urd" group-title="খেলার চ্যানেল" tvg-chno="621" channel-id="PTVSports.pk",PTV Sports
-http://goldenpass.xyz/live/MAGYSHWT8A/MAGB4ETX51/1274771.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1410914.ts
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@SD" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-select-1.png" tvg-country="IN" tvg-language="eng" group-title="খেলার চ্যানেল" tvg-chno="626" channel-id="StarSportsSelect1.in@SD",Star Sports Select 1
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1470719.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/a-sports-65a3e1d8fd.png" group-title="খেলার চ্যানেল",এ স্পোর্টস
@@ -82,7 +82,7 @@ http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/150242.ts
 #EXTINF:-1 tvg-name="Sony Ten Sports 1" tvg-logo="।।" group-title="খেলার চ্যানেল" provider="skym3u.dev",সনি টেন ১
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1481191.ts
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="।।" group-title="খেলার চ্যানেল" provider="skym3u.dev",স্টার স্পোর্টস ১
-http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1481191.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/778413.ts
 #EXTINF:-1 group-title="খেলার চ্যানেল",স্টার স্পোর্টস ২
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-name="Food Food" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/food-food.png" tvg-country="IN" tvg-language="hin" group-title="ডিস্কভারি চ্যানেল" tvg-chno="180" channel-id="FoodFood.in@SD",খাদ্য টিভি
@@ -96,7 +96,7 @@ http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132322.ts
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-name="Discover Pakistan" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/discover-pakistan.png" tvg-country="PK" tvg-language="urd" group-title="ডিস্কভারি চ্যানেল" tvg-chno="175" channel-id="DiscoverPakistan.pk@SD",পাকিস্তান আবিষ্কার করুন
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth" tvg-name="Wild Earth" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wildearth.png" tvg-country="ZZ" tvg-language="eng" group-title="ডিস্কভারি চ্যানেল" tvg-chno="193" channel-id="WildEarth",বন এবং জঙ্গল টিভি
-https://tv.kbhub.online/Documentary/Wild-Earth.m3u8
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132014.ts
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="।।" group-title="ডিস্কভারি চ্যানেল" provider="skym3u.dev",সনি বিবিসি আর্থ
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/5813.ts
 #EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-name="History TV18" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-tv18.png" tvg-country="IN" tvg-language="eng" group-title="ডিস্কভারি চ্যানেল" channel-id="HistoryTV18.in@SD",হিস্ট্রি ১৮
@@ -143,8 +143,6 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8#skym3u.dev
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-name="Zee Bangla Sonar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" channel-id="ZeeBanglaSonar.in@SD",জি বাংলা সোনার
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33655.ts
-#EXTINF:-1 group-title="বাংলা সিনেমা" provider="skym3u.dev",জি সোনার বাংলা
-http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="JTVClassic.in" tvg-name="JTV Classic" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jtv-classic.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" tvg-chno="80" channel-id="JTVClassic.in",যে টিভি ক্লাসিক
 http://103.67.97.46/0.ts
 #EXTINF:-1 tvg-id="SNBCinema.in" tvg-name="SNB Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/snb-cinema.png" tvg-country="IN" tvg-language="ben" group-title="বাংলা সিনেমা" tvg-chno="90" channel-id="SNBCinema.in",সেনবি সিনেমা
@@ -281,3 +279,9 @@ http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33472.ts
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/150251.ts
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="নিউজ",যমুনা টিভি
 https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1794466848~Starts=1794463248~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bJyaLzJmPFhEou9GD6a8koEWU3aXNjV-sJwjqljePw3uqktaP5IYzksZK7bRYCVXVnn9AmARu-51O15u_kB3CA
+#EXTINF:-1 group-title="খেলার চ্যানেল",স্টার স্পোর্টস ৩
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/778411.ts
+#EXTINF:-1 group-title="ইন্ডিয়ান বাংলা",সান বাংলা
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132122.ts
+#EXTINF:-1 group-title="ইসলামিক চ্যানেল",মাদানি উর্দু
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33535.ts
